@@ -1,0 +1,5 @@
+XSym
+0122
+901da2d0b218260528536271461e60b6
+../../../../Google-Mobile-Ads-SDK/GoogleMobileAdsSdkiOS-7.7.1/GoogleMobileAds.framework/Versions/A/Headers/GADAdDelegate.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

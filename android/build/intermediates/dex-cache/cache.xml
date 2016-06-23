@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/pre-dexed/debug/classes-d7b1851f046a031bdf1a0cf0df5f0fe10a5edfd5.jar" />
+    </item>
+    <item
+        jar="/Users/mymac/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/pre-dexed/debug/okio-1.6.0-ff93d7410f3e2c143a23ecdaa98501764f4b67c3.jar" />
+    </item>
+    <item
+        jar="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/exploded-aar/Emotion/react-native-device-info/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5dbef3732db6f4c3e4860afd98cef0a399d88e02">
+        <dex dex="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/pre-dexed/debug/classes-961e9aa96e296b3e93a03ea76b822090fbcb0e26.jar" />
+    </item>
+    <item
+        jar="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/pre-dexed/debug/classes-21ed1d3c41a7b6c0ee1e6cac7b3d9698c28a0b5f.jar" />
+    </item>
+    <item
+        jar="/Users/mymac/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-6ba70bf412f2337a1ae0af0cb685339fd90428bf.jar" />
+    </item>
+    <item
+        jar="/Users/mymac/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-59e07f034b28d5d1a23f915e3d5db75801fa9146.jar" />
+    </item>
+    <item
+        jar="/Users/mymac/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp/1.2.0/6c5c9380e245c4ff5be2b2a49dcbb0200c39798e/stetho-okhttp-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6c5c9380e245c4ff5be2b2a49dcbb0200c39798e">
+        <dex dex="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/pre-dexed/debug/stetho-okhttp-1.2.0-fb2d9300e8fc7a32728333f8b50a2e0be1097d10.jar" />
+    </item>
+    <item
+        jar="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/pre-dexed/debug/classes-362bb6c66ab8aa4d8cab5bd6ce98e07344b7231e.jar" />
+    </item>
+    <item
+        jar="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/pre-dexed/debug/classes-298ea4715970190db1fab84b04a715b84b648cf8.jar" />
+    </item>
+    <item
+        jar="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/pre-dexed/debug/classes-9d7a36c1a1ea96551a4eb6e7ef10a0303c97d6f5.jar" />
+    </item>
+    <item
+        jar="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/exploded-aar/Emotion/react-native-wechat/unspecified/jars/libs/libammsdk.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="47f4993168154fa73377d7470b9f6887d48a8023">
+        <dex dex="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/pre-dexed/debug/libammsdk-3788d00bfcde6e3636d41d20fe2f33ef1fdccb96.jar" />
+    </item>
+    <item
+        jar="/Users/mymac/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-05712623806b45171c23a7e1bc0b48ea740f8fd5.jar" />
+    </item>
+    <item
+        jar="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/pre-dexed/debug/classes-d080a44f521bbbba54285cc2972ce4603087ce3d.jar" />
+    </item>
+    <item
+        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-83cbd8867bbfafb64844edcdc4bcc0a8099d3359.jar" />
+    </item>
+    <item
+        jar="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/exploded-aar/Emotion/react-native-admob/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="016537e30b7e4be2b2e0c31cd5778eb4d9fccb9d">
+        <dex dex="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/pre-dexed/debug/classes-27cfa496d5c6611b619920d9d388e174af4a2ba3.jar" />
+    </item>
+    <item
+        jar="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="27775d59b16610ac76f1b83693fedd9520396332">
+        <dex dex="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/pre-dexed/debug/classes-6f931025071627e521b7f1e76234df7769528140.jar" />
+    </item>
+    <item
+        jar="/Users/mymac/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.2.0/1d6cdb8ce8185b8b23213fad48a83987fb6d2d67/stetho-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1d6cdb8ce8185b8b23213fad48a83987fb6d2d67">
+        <dex dex="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/pre-dexed/debug/stetho-1.2.0-cf275de772073d403ad634f8345a1e5b5cfd3876.jar" />
+    </item>
+    <item
+        jar="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/pre-dexed/debug/classes-820a39d31c875c5735b9b626a05f211692af4f0d.jar" />
+    </item>
+    <item
+        jar="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/pre-dexed/debug/classes-237145ad8af6030b2be5416fee85070fd5fb5211.jar" />
+    </item>
+    <item
+        jar="/Users/mymac/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/pre-dexed/debug/commons-cli-1.2-ae27878b064bbc9d4665ed12f858fed38c6b9a69.jar" />
+    </item>
+    <item
+        jar="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/exploded-aar/Emotion/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5348625948aa2cdbc9e10ab9e5ae01bb75958f29">
+        <dex dex="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/pre-dexed/debug/classes-ff3cf13477c29e04de8d6e04495641f7a8593f4d.jar" />
+    </item>
+    <item
+        jar="/Users/mymac/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-c83b73a431add2863f918b7089415247d9a89ce6.jar" />
+    </item>
+    <item
+        jar="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/exploded-aar/Emotion/react-native-wechat/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6f20b93ce4bc3c5d7a53ad171b41c2d3c87ee60c">
+        <dex dex="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/pre-dexed/debug/classes-31da76ee751ff4e0705aaa577b7d340697a6687e.jar" />
+    </item>
+    <item
+        jar="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.22.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5b2f15bec1db9a9fddabbc29cf0172333040d7d7">
+        <dex dex="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/pre-dexed/debug/classes-a9a89344151393ec43e7b4b0dbf710521c413d44.jar" />
+    </item>
+    <item
+        jar="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.22.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0cc39db3c06f47dee223c382f78e2bff90b74274">
+        <dex dex="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-514ce5bb78e7f9ce7adcf492d2f10736c54314f6.jar" />
+    </item>
+    <item
+        jar="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-c5030b6b5de199956c587d99fd49487b1d4e9822.jar" />
+    </item>
+    <item
+        jar="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/pre-dexed/debug/classes-f56b8cbb3086c10df6ea7412802acec2d25312e4.jar" />
+    </item>
+    <item
+        jar="/Users/mymac/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-0923d870c695da044776f9c392de884cbe17e8e4.jar" />
+    </item>
+    <item
+        jar="/Users/mymac/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.5.0/e9753b7dcae5deca92e871c5c759067070b07bc/okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="/Users/mymac/tfs/hk.ncloud.emotion1/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.5.0-145506b34d54a7e1e7943bfd52faed67ad19892d.jar" />
+    </item>
+
+</items>

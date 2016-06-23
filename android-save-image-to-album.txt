@@ -1,0 +1,22 @@
+add this method to WeChat module:
+
+    @ReactMethod
+    public void saveImageResourceIntoAlbum(String drawableResource, Callback callback) {
+        Context appContext = this.getReactApplicationContext().getApplicationContext();
+        Resources resources = appContext.getResources();
+        int resourceId = resources.getIdentifier(drawableResource, "drawable", appContext.getPackageName());
+
+        if (resourceId == 0) {
+            callback.invoke("resource not exists");
+            return;
+        }
+
+        Bitmap bitmap = BitmapFactory.decodeResource(resources, resourceId);
+        if (bitmap == null) {
+            callback.invoke("resource not found");
+            return;
+        }
+
+        MediaStore.Images.Media.insertImage(appContext.getContentResolver(), bitmap, drawableResource, null);
+        callback.invoke(null, true);
+    }
